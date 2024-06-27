@@ -1061,6 +1061,14 @@ to enhance your skills, the following sections cover tutorials, tools, best prac
    <td><a href="https://learning.oreilly.com/library/view/-/9781491999820/?_gl=1*cudzfs*_ga*MjEzOTgxNjgxOC4xNzE2NTYwOTYx*_ga_092EL089CH*MTcxNjg3OTQxNS4yLjEuMTcxNjg3OTQ0OC4yNy4wLjA.">AngularJS: Up and Running</a></td>
    <td>Comprehensive guide to AngularJS, covering fundamental concepts, practical examples, and advanced topics.</td>
  </tr>
+   <tr>
+      <td><a href="https://drive.google.com/file/d/1tfz8Ope-y5echlAoThjkK6dcYrjYRxc3/view?usp=sharing">NOdeJs learning Book</td>
+         <td>A fantastic and easy language books for NodeJs learner who are sytarting from scratch</td>
+   </tr>
+         <tr>
+      <td><a href="https://drive.google.com/file/d/1DzJkkC0EopoEoyNPoqi6lQDHMfAxAw9f/view?usp=sharing">Learning NodeJs development</td>
+         <td>A Book for absolute nodeJs develoment enthusiasts</td>
+   </tr>
  <tr>
    <td><a href="https://www.ng-book.com/">ng-book: The Complete Book on AngularJS</a></td>
    <td>Detailed and thorough exploration of AngularJS, including core concepts, best practices, and real-world applications.</td>
